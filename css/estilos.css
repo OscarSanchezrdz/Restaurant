@@ -261,6 +261,18 @@ header .textos h3 {
 /* ----- ----- FOOTER ----- ----- */
 footer {
 	background: #000;
+	height: 100px;
+}
+footer .redes-sociales{
+	text-align: center;
+}
+footer .redes-sociales a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 30px;
+	display: inline-block;
+	padding-top: 20px;
+	margin-right: 20px;
 }
 
 footer .copyright {
